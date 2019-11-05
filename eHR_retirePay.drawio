@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-04T10:46:42.626Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="H7CtrsVuCEHuFJjGMwHQ" version="12.1.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-05T04:36:38.714Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="QGdu26gmJQVDUTjuFBwq" version="12.2.0" type="github" pages="2">
   <diagram id="_-sk26YqaKOYR-OF60id" name="usecase">
-    <mxGraphModel dx="1408" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -8,18 +8,18 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="vEPkodwYQKIJYMEDWaN3-1" value="급여담당자" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="180" width="30" height="60" as="geometry"/>
+          <mxGeometry x="80" y="310" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="vEPkodwYQKIJYMEDWaN3-2" value="퇴직계산일자관리" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="90" width="140" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="rnG1nMh0u6l7AMHy-INz-1" value="퇴직금대상자관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rnG1nMh0u6l7AMHy-INz-1" value="퇴직금대상자관리" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="260" width="140" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="rnG1nMh0u6l7AMHy-INz-2" value="퇴직금예외관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rnG1nMh0u6l7AMHy-INz-2" value="퇴직금예외관리" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="378" width="140" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="rnG1nMh0u6l7AMHy-INz-4" value="퇴직금계산" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rnG1nMh0u6l7AMHy-INz-4" value="퇴직금계산" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="490" width="140" height="70" as="geometry"/>
         </mxCell>
       </root>
